@@ -1,4 +1,4 @@
-Esse repositório é um fork [Piggy Metrics] (https://github.com/sqshq/PiggyMetrics), uma aplicação de referência que demonstra a adoção de uma arquitetura de microserviços usando o framework Spring Cloud e Docker
+Esse repositório é um fork [Piggy Metrics](https://github.com/sqshq/PiggyMetrics), uma aplicação de referência que demonstra a adoção de uma arquitetura de microserviços usando o framework Spring Cloud e Docker
 
 # Desafio:
 
@@ -10,7 +10,7 @@ Construir uma pipeline utilizando o [Jenkins](https://jenkins.io/) com ao menos 
 * deploy:docker
 
 **Quer surpreender no desafio?**
- * adicione um stage para análisar a qualidade do código fonte 
+ * adicione um stage para análisar a qualidade do código fonte
  * adicione um stage para publicar os artefatos (jar e docker) em um repositório
  * faça a implantação dos containers de forma que eles escalem individualmente
 
@@ -26,4 +26,3 @@ Construir uma pipeline utilizando o [Jenkins](https://jenkins.io/) com ao menos 
 * [Docker](https://www.docker.com)
 * [Jenkins](https://jenkins.io)
 * [Spring Cloud](http://spring.io/projects/spring-cloud)
-
